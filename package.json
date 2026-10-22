@@ -1,0 +1,19 @@
+{
+  "name": "rappel-whatsapp-vps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Planification de rappels WhatsApp avec configuration externe",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "postinstall": "node scripts/patch-whatsapp.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "1.34.7"
+  }
+}

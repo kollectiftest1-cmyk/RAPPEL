@@ -1,0 +1,86 @@
+{
+  "timezone": "Africa/Kinshasa",
+  "schedules": [
+    {
+      "id": "groupe_1_1500",
+      "label": "Groupe 1 - 15h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363423076269533@g.us",
+      "cron": "0 15 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. les agences Petit Jardin, FBN bank et Kinzau doivent impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_1_1590",
+      "label": "Groupe 1 - 15h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363423076269533@g.us",
+      "cron": "30 15 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. les agences Petit Jardin, FBN bank et Kinzau doivent impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_1_1530",
+      "label": "Groupe 1 - 15h30",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363409638505069@g.us",
+      "cron": "31 15 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. les agences Petit Jardin, FBN bank et Kinzau doivent impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+        {
+      "id": "groupe_1_1580",
+      "label": "Groupe 1 - 15h30",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363409638505069@g.us",
+      "cron": "01 15 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. les agences Petit Jardin, FBN bank et Kinzau doivent impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_2_2100",
+      "label": "Groupe 2 - 21h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363423076269533@g.us",
+      "cron": "0 21 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. l'agences BRALIMA doit impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_2_2150",
+      "label": "Groupe 2 - 21h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363409638505069@g.us",
+      "cron": "0 21 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. l'agences BRALIMA doit impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_2_2130",
+      "label": "Groupe 2 - 21h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363423076269533@g.us",
+      "cron": "30 21 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. l'agences BRALIMA doit impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_2_2950",
+      "label": "Groupe 2 - 21h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363409638505069@g.us",
+      "cron": "31 21 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous rappelons l'importance transmettre les rapports dans le  délais prévus. l'agences BRALIMA doit impérativement respecter ces délais.\n\nMerci de votre ponctualité."
+    },
+    {
+      "id": "groupe_2_9100",
+      "label": "Groupe 2 - 21h00",
+      "enabled": true,
+      "targetType": "group",
+      "recipient": "120363423076269533@g.us",
+      "cron": "30 8 * * 1-6",
+      "message": "Bonjour chers collaborateurs de JCASH SERVICES, \n\nNous vous souhatons une belle journées de travails. restez mautivés.\n\nMerci de votre attention."
+    }
+  ]
+}
